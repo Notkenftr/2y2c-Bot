@@ -1,5 +1,5 @@
 > [!NOTE]
-> Bot không phải sản phẩm thuộc 2y2c, chỉ là sản phẩm của người chơi
+> Bot không phải sản phẩm thuộc 2y2c, chỉ là sản phẩm của người chơi<br>
 > Vì là self bot nên sẽ vi phạm discord ToS, hãy cân nhắc trước khi sử dụng
 
 # Depend
