@@ -1,11 +1,14 @@
-from typing import Any
-
-import discord
 from discord.ext import commands
 
 from _2y2c.loader import Loader
 from _2y2c.modules.command_listeners import CommandListeners
 from _2y2c.utils.config import Config
+from discord.ext import commands
+
+from _2y2c.loader import Loader
+from _2y2c.modules.command_listeners import CommandListeners
+from _2y2c.utils.config import Config
+
 
 class App(commands.Bot):
     def __init__(self):

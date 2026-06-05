@@ -1,7 +1,10 @@
 import os
-import yaml
-from _2y2c.utils import path
 from types import SimpleNamespace
+
+import yaml
+
+from _2y2c.utils import path
+
 
 class Config:
     def __init__(self):

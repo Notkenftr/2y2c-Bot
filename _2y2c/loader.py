@@ -1,11 +1,11 @@
+import importlib
 import os
 
 from discord.ext import commands
+
 from _2y2c.modules.command_listeners import CommandListeners
 from _2y2c.utils import path
 
-import inspect
-import importlib
 
 class Loader:
     def __init__(self,cml: CommandListeners,app: commands.Bot):

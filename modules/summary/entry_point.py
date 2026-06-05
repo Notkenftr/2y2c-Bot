@@ -1,12 +1,14 @@
 import random
 
 import discord
-from _2y2c.api.register import Register
-from _2y2c.api.types import CommandTrigger
-from _2y2c.utils.config import Config
-from _2y2c.utils import path
 from google import genai
 from google.genai.types import GenerateContentConfig
+
+from _2y2c.api.register import Register
+from _2y2c.api.types import CommandTrigger
+from _2y2c.utils import path
+from _2y2c.utils.config import Config
+
 
 class EntryPoint(Register):
     def __init__(self):

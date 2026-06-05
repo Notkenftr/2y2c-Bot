@@ -7,6 +7,7 @@ from discord.ext import commands
 from _2y2c.api.types import CommandTrigger
 from _2y2c.utils import path
 
+
 class CommandListeners(commands.Cog):
 
     _instance = None
