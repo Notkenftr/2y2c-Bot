@@ -1,0 +1,7 @@
+{
+  "author": "kenftr",
+  "version": "0.0.1",
+  "depend": [
+    "google-genai"
+  ]
+}

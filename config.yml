@@ -1,0 +1,18 @@
+Discord:
+  token: ""
+
+  only_guild:
+    enable: true
+    ids: []
+
+
+Gemini:
+  api_key:
+    - abcxyz
+    - abccxyz123456
+  model: "gemini-3.5-flash"
+  temperature: 01.0
+  top_p: 0.9
+  top_k: 70
+  max_tokens: 8192
+
